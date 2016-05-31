@@ -23,5 +23,6 @@ You can see examples of robots in Java under `src/main/java`.
 
 Feel free to familiarize yourself with strategies used there and implement them in Scala, but bonus points for doing something utterly original.
 
-[Robocode API Docs](https://github.com/jlecount-sungevity/robocode)
+[Robocode API Docs](http://robocode.sourceforge.net/docs/robocode/)
+[Robocode Main Page](http://robocode.sourceforge.net)
 
